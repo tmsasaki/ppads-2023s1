@@ -4,10 +4,10 @@
 # Projeto: *<Nome_do_seu_Projeto>*
 
 # Grupo: *<Nome_do_seu_Grupo>*
-Arthur - 
-Gabriel -
-Gustavo - 
-Gustavo -
+Arthur - <br>
+Gabriel - <br>
+Gustavo - <br>
+Gustavo - <br>
 
 # Descrição
 
