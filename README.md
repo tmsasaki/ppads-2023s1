@@ -1,9 +1,9 @@
 <h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Presença Octógono*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Onipresente*
 Arthur Hardt - 32159341 <br>
 Gabriel Carvalho - <br>
 Gustavo Carmassi - 32046693 <br>
@@ -11,7 +11,7 @@ Gustavo Direnzi - 31948421 <br>
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+Um sistema de presenças para a escola Octógono 
 
 # Documentação
 
