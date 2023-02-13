@@ -4,10 +4,10 @@
 # Projeto: *<Nome_do_seu_Projeto>*
 
 # Grupo: *<Nome_do_seu_Grupo>*
-Arthur - <br>
-Gabriel - <br>
-Gustavo - <br>
-Gustavo - <br>
+Arthur Hardt - 32159341 <br>
+Gabriel Carvalho - <br>
+Gustavo Carmassi - 32046693 <br>
+Gustavo Direnzi - 31948421 <br>
 
 # Descrição
 
