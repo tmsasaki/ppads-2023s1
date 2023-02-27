@@ -94,7 +94,7 @@ frequência escolar.
 
 # Modelo de domínio
 
-[Clique para verificar o modelo de dominio](https://github.com/Carmassi/ppads-2023s1/blob/master/docs/DOC1/Modelo%20de%20dominio.pdf)
+![image](https://user-images.githubusercontent.com/85083155/221701404-770b81f8-9dc6-47e6-9cf2-c7cd47b6b57b.png)
 
 # Decisões de arquitetura
 
