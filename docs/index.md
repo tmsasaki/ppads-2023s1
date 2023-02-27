@@ -98,7 +98,8 @@ frequência escolar.
 
 # Decisões de arquitetura
 
-*&lt;Decisões de arquitetura&gt;*
+Vamos utilizar para fazer o front-end as linguagens HTML, CSS e JavaScript junto com o framework do AngularJS e para o backend iremos usar NestJs.
+Para o banco de dados será usado o ElephantSQL.
 
 # Referências
 
