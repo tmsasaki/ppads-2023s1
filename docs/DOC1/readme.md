@@ -37,7 +37,7 @@ Um sistema de presenças para a escola Octógono
 
 # Diagrama de casos de uso
 
-[Clique para verificar o Diagrama de Casos de Uso](https://github.com/Carmassi/ppads-2023s1/blob/master/docs/DOC1/Casos%20de%20uso.pdf)
+![image](https://user-images.githubusercontent.com/85083155/221701544-919bfd2d-9c46-4c2e-a7c0-e8f778cb759a.png)
 
 # Descrição dos casos de uso
 
