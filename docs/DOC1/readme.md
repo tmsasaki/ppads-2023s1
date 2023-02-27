@@ -81,7 +81,16 @@ frequência escolar.
 
 # Protótipos de tela
 
-[Clique para verificar os prototipos de tela](https://github.com/Carmassi/ppads-2023s1/blob/master/docs/DOC1/Prototipo.pdf)
+![image](https://user-images.githubusercontent.com/85083155/221700466-77229d5c-cb25-4566-adc4-db558216d510.png)
+
+![image](https://user-images.githubusercontent.com/85083155/221700407-98cb166a-b97a-49da-ae24-02ae3ef7bc5b.png)
+
+![image](https://user-images.githubusercontent.com/85083155/221700608-b7438945-b76e-4699-89e2-e475028d2d40.png)
+
+![image](https://user-images.githubusercontent.com/85083155/221700652-79f2986f-50e7-4911-93ce-04b81099fb8d.png)
+
+![image](https://user-images.githubusercontent.com/85083155/221700693-b154a7c1-c5fc-4c56-8a6b-279a381a7106.png)
+
 
 # Modelo de domínio
 
