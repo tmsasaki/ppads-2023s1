@@ -33,7 +33,7 @@ Gustavo Direnzi - 31948421 <br>*
 
 # Descrição do projeto
 
-*&lt;Descrição do projeto&gt;*
+Um sistema de presenças para a escola Octógono
 
 # Diagrama de casos de uso
 
@@ -90,10 +90,6 @@ frequência escolar.
 # Decisões de arquitetura
 
 *&lt;Decisões de arquitetura&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama de implantação&gt;*
 
 # Referências
 
